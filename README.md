@@ -1,3 +1,10 @@
+## Quick Note
+Dear fellow assessor,
+ 
+ Please copy the file "household_power_consumption.txt" to the working directory before running the scripts for testing.
+Thank you.
+
+
 ## Introduction
 
 This assignment uses data from
