@@ -6,4 +6,5 @@ par(cex = 0.75)
 png("plot1.png",width = 480,height = 480)
 hist(elec2$Global_active_power,xlab = "Global Active Power (kilowatts)",main = "Global Active Power",col="red")
 dev.off()
+dev.off()
 }
